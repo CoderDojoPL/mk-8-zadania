@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zadanie()
+comment0.text=\r\n\ Konstruktor\ klasy\ zadanie\ Zadanie\r\n
+comment1.params=opis\ terminWykonania
+comment1.target=Zadanie(java.lang.String,\ java.util.Date)
+comment1.text=\r\n\ Konstruktor\ parametrowy,\ przyjmuje\ opis\ i\ termin\ wykonania.\r\n\ @param\ opis\r\n\ @param\ terminWykonania\r\n
+comment2.params=
+comment2.target=java.lang.String\ getOpis()
+comment2.text=\r\n\ Zwraca\ opis\ zadania.\r\n\ @return\ opis\r\n
+comment3.params=opis
+comment3.target=void\ setOpis(java.lang.String)
+comment3.text=\r\n\ Ustawia\ opis.\r\n\ @param\ opis\r\n
+comment4.params=
+comment4.target=java.util.Date\ getTerminWykonania()
+comment4.text=\r\n\ Zwraca\ termin\ wykonania\ zadania.\r\n\ @return\r\n
+comment5.params=terminWykonania
+comment5.target=void\ setTerminWykonania(java.util.Date)
+comment5.text=\r\n\ Ustawia\ termin\ wykonania\ zadania.\r\n\ @param\ terminWykonania\r\n
+numComments=6

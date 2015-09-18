@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OknoZadania()
+comment0.text=\r\n\ Konstruktor\ klasy\ OknoZadania\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Zadanie\ pobierzWprowadzoneZadanie()
+comment3.params=data
+comment3.target=java.util.Date\ wczytajTermin(java.lang.String)
+comment3.text=\r\n\ Zamienia\ termin\ wykonania\ z\ napisu\ na\ date.\r\n
+numComments=4
